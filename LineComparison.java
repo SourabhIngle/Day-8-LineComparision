@@ -44,7 +44,7 @@ public class LineComparison {
 
     public static void main(String[] args) {
 
-        LineComparisonUsingMethodUC4 equalMethodUC2 = new LineComparisonUsingMethodUC4();
+        LineComparison equalMethodUC2 = new LineComparison();
         equalMethodUC2.setLength();
         equalMethodUC2.calculateTwoLength();
         equalMethodUC2.compareLineUsingCompareToMethod();
